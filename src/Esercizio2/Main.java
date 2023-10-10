@@ -1,8 +1,6 @@
 package Esercizio2;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
+import java.util.*;
 
 public class Main
 {public static List<Integer> funzioneListaCasuale (int N){
@@ -21,6 +19,7 @@ public static List<Integer> listaInvertita(List<Integer> lista){
         listaInvertita.add(lista.get(i));
 
     }
+//    Collections.reverse(listaInvertita); /// prossima volta usa questa!
     return listaInvertita;
 }
 

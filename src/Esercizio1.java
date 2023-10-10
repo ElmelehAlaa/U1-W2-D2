@@ -25,7 +25,7 @@ public class Esercizio1 {
 
         int nParoleDiverse = paroleDiverse.size();
         System.out.println("numero parole diverse:"+ nParoleDiverse);
-        System.out.println("elenco");
+        System.out.println("elenco:");
         for (String parola:paroleDiverse){
             System.out.println(parola);
         }

@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72806334-6178-41e0-b502-770bb0eff938" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U1-W2-D2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio2/Esercizio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es3/RubricaTelefonica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esercizio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizio2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esercizio2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +38,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RunManager">
